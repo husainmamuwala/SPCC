@@ -2,4 +2,5 @@
 System Programming and Compiler Construction
 --------------------------------------------
 List of Experiments
-https://www.github.com/husainmamuwala/spcc/lexicalAnalyzer
+<a href="https://www.google.com/" target="_blank">Lexical Analyzer</a>
+
